@@ -20,7 +20,7 @@ As an example, to load the ResNext-101 32x16d model, simply run:
 ```
 model = torch.hub.load('facebookresearch/WSL-Images', 'resnext101_32x16d_wsl')
 ```
-Please refer to [torch.hub](https://pytorch.org/docs/stable/hub.html) to see a full example of using the model to classify an image.
+Please refer to [torch.hub](https://pytorch.org/hub/facebookresearch_WSL-Images_resnext/) to see a full example of using the model to classify an image.
 
 ## Citing WSL-Images
 
